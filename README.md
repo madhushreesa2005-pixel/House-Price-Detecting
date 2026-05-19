@@ -1,2 +1,3 @@
 # House-Price-Detecting
 So the project is about Finding the best Price of House while purchasing based on some characteristics or Features like how many rooms, washrooms etc we need and area. 
+The House Price Detection project is a machine learning application developed in Python to predict residential property prices. It uses datasets containing features such as square footage, number of bedrooms, location, and year built. The model was trained using regression algorithms like Linear Regression and Random Forest with Scikit-learn. Data preprocessing, EDA, and visualization were done using Pandas and Matplotlib to improve accuracy. The system helps estimate market value of houses based on input features.
